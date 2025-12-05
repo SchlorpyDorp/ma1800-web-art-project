@@ -1,3 +1,6 @@
+# ma1800-web-art-project
+https://github.com/SchlorpyDorp/ma1800-web-art-project
+
 ## Project Overview: “Pain Is Your Most Valuable Teacher”
 
 This project is a small interactive site that plays on the idea that people usually learn more through mistakes and humiliation and frustration as opposed to proper tutorials and friendly instructions.
