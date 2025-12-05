@@ -63,3 +63,8 @@ Such as glitch sounds or buzzing warnings — but only if the project benefits f
 
 ### Accessibility improvements
 To ensure the purposefully painful visuals don’t exclude people prone to epileptic seizures.
+
+## Asset List
+
+### Assets sourced online
+- Virus Alert.gif (https://uk.pinterest.com/pin/7459155624672936/)
