@@ -18,7 +18,7 @@ Pain is your most valuable teacher. Not because pain is kind, but because it’s
   - Three troll options that punish and reset them all the way to the very beginning.
   - Progression is done through separate HTML pages.
   - A single looping scam-style GIF appears on every page, acting like a visual parasite that follows the user around.
-  - The user’s journey repeats until they adapt and recognise patterns in the scams, bait wording, emotional manipulation, and fake urgency.
+- The user’s journey repeats until they adapt and recognise patterns in the scams, bait wording, emotional manipulation, and fake urgency.
 
 
 ## Challenges Encountered
